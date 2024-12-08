@@ -3,7 +3,7 @@ package service
 import (
 	"github.com/dstgo/kratosx"
 
-	"github.com/dstgo/container/api/game/errors"
+	"github.com/dstgo/container/api/container/errors"
 	"github.com/dstgo/container/internal/conf"
 	"github.com/dstgo/container/internal/domain/entity"
 	"github.com/dstgo/container/internal/domain/repository"

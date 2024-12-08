@@ -9,7 +9,7 @@ import (
 	"github.com/go-kratos/kratos/v2/transport/http"
 	"google.golang.org/protobuf/types/known/emptypb"
 
-	pb "github.com/dstgo/container/api/game/userinfo/v1"
+	pb "github.com/dstgo/container/api/container/userinfo/v1"
 
 	"github.com/dstgo/container/internal/conf"
 	"github.com/dstgo/container/internal/domain/entity"

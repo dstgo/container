@@ -6,7 +6,7 @@ import (
 	"github.com/dstgo/kratosx"
 	file "github.com/dstgo/resource/api/resource/file/v1"
 
-	"github.com/dstgo/container/api/game/errors"
+	"github.com/dstgo/container/api/container/errors"
 )
 
 const (

@@ -8,7 +8,7 @@ import (
 	"github.com/go-kratos/kratos/v2/transport/grpc"
 	"github.com/go-kratos/kratos/v2/transport/http"
 
-	pb "github.com/dstgo/container/api/game/field/v1"
+	pb "github.com/dstgo/container/api/container/field/v1"
 
 	"github.com/dstgo/container/internal/conf"
 	"github.com/dstgo/container/internal/domain/entity"

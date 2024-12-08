@@ -8,7 +8,7 @@ import (
 	"github.com/go-kratos/kratos/v2/transport/http"
 	"github.com/golang/protobuf/ptypes/empty"
 
-	pb "github.com/dstgo/container/api/game/auth/v1"
+	pb "github.com/dstgo/container/api/container/auth/v1"
 
 	"github.com/dstgo/container/internal/conf"
 	"github.com/dstgo/container/internal/domain/entity"

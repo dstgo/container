@@ -9,9 +9,9 @@ import (
 	"github.com/go-kratos/kratos/v2/transport/grpc"
 	"github.com/go-kratos/kratos/v2/transport/http"
 
-	pb "github.com/dstgo/container/api/game/channel/v1"
+	pb "github.com/dstgo/container/api/container/channel/v1"
 
-	"github.com/dstgo/container/api/game/errors"
+	"github.com/dstgo/container/api/container/errors"
 	"github.com/dstgo/container/internal/conf"
 	"github.com/dstgo/container/internal/domain/entity"
 	"github.com/dstgo/container/internal/domain/service"

@@ -13,8 +13,8 @@ import (
 	"google.golang.org/protobuf/proto"
 	"gorm.io/gorm"
 
-	"github.com/dstgo/container/api/game/auth"
-	"github.com/dstgo/container/api/game/errors"
+	"github.com/dstgo/container/api/container/auth"
+	"github.com/dstgo/container/api/container/errors"
 	"github.com/dstgo/container/internal/conf"
 	"github.com/dstgo/container/internal/domain/entity"
 	"github.com/dstgo/container/internal/domain/repository"

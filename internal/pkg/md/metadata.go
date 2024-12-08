@@ -4,9 +4,9 @@ import (
 	"github.com/dstgo/kratosx"
 	"github.com/dstgo/kratosx/pkg/valx"
 
-	"github.com/dstgo/container/api/game/auth"
+	"github.com/dstgo/container/api/container/auth"
 
-	"github.com/dstgo/container/api/game/errors"
+	"github.com/dstgo/container/api/container/errors"
 )
 
 func New(in auth.Auth) map[string]any {

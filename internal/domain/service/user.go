@@ -8,7 +8,7 @@ import (
 	"github.com/google/uuid"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/dstgo/container/api/game/errors"
+	"github.com/dstgo/container/api/container/errors"
 	"github.com/dstgo/container/internal/conf"
 	"github.com/dstgo/container/internal/domain/entity"
 	"github.com/dstgo/container/internal/domain/repository"

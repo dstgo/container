@@ -9,7 +9,7 @@ import (
 	v1 "github.com/dstgo/manager/api/manager/auth/v1"
 	resourcev1 "github.com/dstgo/manager/api/manager/resource/v1"
 
-	"github.com/dstgo/container/api/game/errors"
+	"github.com/dstgo/container/api/container/errors"
 )
 
 const (
